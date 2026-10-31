@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aianyone": {
+      "type": "http",
+      "url": "https://mcp.aianyone.com/mcp"
+    }
+  }
+}

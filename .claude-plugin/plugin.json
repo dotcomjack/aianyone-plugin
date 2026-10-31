@@ -1,0 +1,23 @@
+{
+  "name": "ai-anyone",
+  "displayName": "AI Anyone",
+  "version": "1.0.0",
+  "description": "Talk to anyone. Ask a named person and they answer as themselves, call them out loud on AI Anyone, open your own characters, or watch two people argue a question.",
+  "author": {
+    "name": "AI Anyone",
+    "email": "support@aianyone.com",
+    "url": "https://aianyone.com"
+  },
+  "homepage": "https://mcp.aianyone.com/docs",
+  "privacyPolicyUrl": "https://aianyone.com/privacy#assistant-plugins",
+  "repository": "https://github.com/dotcomjack/aianyone-plugin",
+  "license": "MIT",
+  "keywords": [
+    "characters",
+    "history",
+    "voice",
+    "debate",
+    "learning"
+  ],
+  "icon": ".claude-plugin/icon.png"
+}
